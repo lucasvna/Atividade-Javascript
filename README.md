@@ -10,3 +10,8 @@ Deve ser criada uma nova página chamada `mensagens.html`. Essa página deve car
 
 Alunos: 
 
+- Lucas
+- Danilo
+- Miguel
+- Leonado
+- João Vitor
